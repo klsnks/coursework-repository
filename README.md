@@ -3,5 +3,9 @@ https://drive.google.com/drive/folders/1LLf6gLJ3O4BwzXG-F1Cj53iDvpcA_YbR?usp=sha
 
 ## 0. Мотивация
 
-## 1. Набор данных
+## 1. Обработка данных
+
+## 2. Архитектура модели
+
+## 3. Результаты
 
